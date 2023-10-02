@@ -1,5 +1,5 @@
 - Olá, me chamo @TaynaraErlacher
-- Estarei postando projetos mobile e web, e voltados principalmente para desenvolvimento em FrontEnd.
+- Estarei postando projetos mobile e web. Meus projetos serão voltados principalmente para desenvolvimento em FrontEnd.
 
 - Pode me contatar pelo e-mail taynaraerlacher@outlook.com ou pelo celular +55 11 943299907
 
